@@ -1,5 +1,6 @@
 .DS_Store
 *.pyc
 *.swp
+.idea
 /data/example_generated_data/
 /results/*
